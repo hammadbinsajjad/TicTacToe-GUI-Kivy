@@ -1,0 +1,25 @@
+Screen:
+
+<Screen>:
+	orientation: "vertical"
+	
+	# Title Label
+	Label:
+		text: "TicTacToe"
+		size_hint: 1, .15
+		pos_hint: {"top": 1}
+		font_size: "50dp"
+	
+	# Status Label
+	Label:
+		text: game_area.turn_text
+		size_hint: 1, .10
+		pos_hint: {"top": .85}
+		font_size: "30dp"
+	
+	# The game grid layout
+	Game:
+		id: game_area
+		rows: 3
+		cols: 3
+		size_hint: 1, .75
