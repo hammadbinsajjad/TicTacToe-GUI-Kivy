@@ -29,7 +29,8 @@ Follow the steps below to get the project ready on your PC
 
 The project's purpose is practice and there are many things in the project that must be added and/or improved.
 Some of the additions that I want to add are 
-- Using the canvas to draw the a line
+- Using the canvas to draw the winning line
+- Better user interface
 - Better colours
 - Flipped labels on the bottom of screen(for better view of 2nd player)
 
