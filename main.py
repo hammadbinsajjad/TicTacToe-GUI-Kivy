@@ -37,7 +37,6 @@ class Game(GridLayout):
 			button.text = self.current_player_symbol
 			button.color = self.button_colors[self.current_player_symbol]
 			self.turn_count += 1
-			print(self.turn_count)
 			if self.check_win():
 				self.game_complete();
 				return
