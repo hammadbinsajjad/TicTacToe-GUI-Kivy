@@ -17,7 +17,6 @@ All the contents of the .kv file can be made using the .py file but it is a lot 
 
 ### Running the application
 
-#### Python File
 Follow the steps below to get the project ready on your PC
 
 - Have Python installed on your computer and set in path
@@ -25,9 +24,6 @@ Follow the steps below to get the project ready on your PC
 - Pull the repository or download the code
 - Go into the directory using the terminal or your IDE
 - Run the application using "py main.py"
-
-#### Executable File
-Under the releases section, a zip file is available with the packaged application. In the zip file, the shortcut is available to launch the application.
 
 ### Note
 
